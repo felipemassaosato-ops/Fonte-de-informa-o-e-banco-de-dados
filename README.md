@@ -8,5 +8,6 @@ máximoses
 minimoses
 corresp
 indice
+cont.se
 somase
 cont.valores
