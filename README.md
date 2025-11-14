@@ -18,7 +18,9 @@ cont.valores
 
 
 ## Dados_comex_stat_exp2025_relacoes.pbix
-Análise visual de dados de comércio exterior, com foco em exportações projetadas para 2025 e suas relações.
+<img width="1919" height="1079" alt="Captura de tela 2025-11-14 205228" src="https://github.com/user-attachments/assets/7bc1fc05-f649-4875-8b9f-e912ed7016dd" />
+
+*Análise visual de dados de comércio exterior, com foco em exportações projetadas para 2025 e suas relações.
 
 
 ## AtividadePB.pbix
