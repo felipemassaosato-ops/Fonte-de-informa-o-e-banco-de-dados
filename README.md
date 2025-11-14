@@ -12,6 +12,8 @@ indice
 cont.se
 somase
 cont.valores
+
+
 ## Dados_comex_stat_exp2025_relacoes.pbix
 Análise visual de dados de comércio exterior, com foco em exportações projetadas para 2025 e suas relações.
 
