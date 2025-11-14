@@ -24,6 +24,8 @@ cont.valores
 
 
 ## AtividadePB.pbix
+<img width="1919" height="1079" alt="Captura de tela 2025-11-14 205735" src="https://github.com/user-attachments/assets/41e3e3e8-4c1b-4a06-8502-4c8693ca3bb3" />
+
 Dashboard criado para prática de visualização e construção de relatórios interativos em Power BI.
 
 
