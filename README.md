@@ -12,3 +12,11 @@ indice
 cont.se
 somase
 cont.valores
+## Dados_comex_stat_exp2025_relacoes.pbix
+Análise visual de dados de comércio exterior, com foco em exportações projetadas para 2025 e suas relações.
+## AtividadePB.pbix
+Dashboard criado para prática de visualização e construção de relatórios interativos em Power BI.
+## Anos_de_Experiência_vs_Salário.ipynb
+Tempo de experiência profissional e nível salarial, com o objetivo de identificar padrões, tendências e possíveis relações lineares entre as variáveis.
+## ANALISESORVETE.ipynb
+estudo investiga padrões sazonais, fatores que influenciam o consumo e tendências de mercado, utilizando ferramentas de visualização e manipulação de dados em Python.
