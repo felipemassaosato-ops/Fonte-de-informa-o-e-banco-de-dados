@@ -17,23 +17,23 @@ somase
 cont.valores
 
 
-## Dados_comex_stat_exp2025_relacoes.pbix
+## Atividade 3 (Dados_comex_stat_exp2025_relacoes.pbix)
 <img width="1919" height="1079" alt="Captura de tela 2025-11-14 205228" src="https://github.com/user-attachments/assets/7bc1fc05-f649-4875-8b9f-e912ed7016dd" />
 
 *Análise visual de dados de comércio exterior, com foco em exportações projetadas para 2025 e suas relações.
 
 
-## AtividadePB.pbix
+##  Atividade 4 (AtividadePB.pbix)
 <img width="1919" height="1079" alt="Captura de tela 2025-11-14 205735" src="https://github.com/user-attachments/assets/41e3e3e8-4c1b-4a06-8502-4c8693ca3bb3" />
 
 Dashboard criado para prática de visualização e construção de relatórios interativos em Power BI.
 
 
-## Anos_de_Experiência_vs_Salário.ipynb
+## Atividade 5 (Anos_de_Experiência_vs_Salário.ipynb)
 <img width="1111" height="576" alt="Captura de tela 2025-11-14 210151" src="https://github.com/user-attachments/assets/c831b3c4-415a-4849-aa79-612601293a8f" />
 
 Tempo de experiência profissional e nível salarial, com o objetivo de identificar padrões, tendências e possíveis relações lineares entre as variáveis.
 
 
-## ANALISESORVETE.ipynb
+##  Atividade 6 (ANALISE SORVETE.ipynb)
 estudo investiga padrões sazonais, fatores que influenciam o consumo e tendências de mercado, utilizando ferramentas de visualização e manipulação de dados em Python.
