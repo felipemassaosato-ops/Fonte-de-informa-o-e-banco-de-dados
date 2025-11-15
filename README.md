@@ -36,4 +36,6 @@ Tempo de experiência profissional e nível salarial, com o objetivo de identifi
 
 
 ##  Atividade 6 (ANALISE SORVETE.ipynb)
+<img width="976" height="551" alt="Captura de tela 2025-11-14 211225" src="https://github.com/user-attachments/assets/1bc6bd9c-ac2e-4d98-b8ab-55eb6e26c00d" />
+
 estudo investiga padrões sazonais, fatores que influenciam o consumo e tendências de mercado, utilizando ferramentas de visualização e manipulação de dados em Python.
