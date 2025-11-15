@@ -30,6 +30,8 @@ Dashboard criado para prática de visualização e construção de relatórios i
 
 
 ## Anos_de_Experiência_vs_Salário.ipynb
+<img width="1111" height="576" alt="Captura de tela 2025-11-14 210151" src="https://github.com/user-attachments/assets/c831b3c4-415a-4849-aa79-612601293a8f" />
+
 Tempo de experiência profissional e nível salarial, com o objetivo de identificar padrões, tendências e possíveis relações lineares entre as variáveis.
 
 
