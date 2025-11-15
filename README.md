@@ -1,11 +1,11 @@
 # Fonte-de-informa-o-e-banco-de-dados
 Matéria Fatec
-## Atividade1: apresentação em equipe / mapa mental. Utilizado sowftware canva
+## Atividade1: Apresentação em equipe / mapa mental. Utilizado sowftware canva
 https://www.canva.com/design/DAGwMR9sWaQ/vLgoSObELy3iE-A2rbDLng/view?utm_content=DAGwMR9sWaQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h592420b4c6
 <img width="1629" height="918" alt="Captura de tela 2025-11-14 204952" src="https://github.com/user-attachments/assets/b2ce4231-eea9-41ad-9420-848e6ef9bdb5" />
 
 
-## Atividade2 : análise exploratória de dados abertos
+## Atividade2 : Análise exploratória de dados abertos
 <img width="1035" height="227" alt="image" src="https://github.com/user-attachments/assets/98cbdd65-da2a-4aa1-9fba-a0e7b0bfbb98" />
 Fórmulas utilizadas no Exel: 
 máximoses
